@@ -1,0 +1,14 @@
+#divBotones{
+    text-align: center;
+}
+
+html{
+    background: #cccccc;
+}
+
+body{
+    margin: 50px;
+    border: solid 1px black;
+    padding: 10px;
+    background: white;
+}
